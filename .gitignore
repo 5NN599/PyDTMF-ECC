@@ -1,0 +1,19 @@
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Local build environment and PyInstaller artifacts
+.build_venv/
+.venv/
+build/
+dist/
+*.spec
+BUILD_FAILED.txt
+
+# Locally built application
+PyDTMF-ECC.exe
+
+# Generated transfer/test files
+*.wav
+*.bin
+*.part
