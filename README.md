@@ -113,7 +113,7 @@ PyDTMF-ECC/
 
 ### License
 
-No project-level `LICENSE` file is included yet. Until the maintainer selects and adds a license, permissions to reuse, modify, or redistribute this project's source code are not explicitly granted. See `THIRD_PARTY_NOTICES.md` for third-party package license information.
+PyDTMF-ECC is licensed under the **GNU General Public License v3.0 (GPL-3.0)**. You may use, study, modify, and redistribute this project under the terms of the license. See [`LICENSE`](LICENSE) for the complete license text. Third-party dependencies may have separate license terms; see [`THIRD_PARTY_NOTICES.md`](THIRD_PARTY_NOTICES.md).
 
 ---
 
@@ -221,4 +221,4 @@ PyDTMF-ECC/
 
 ### 라이선스
 
-현재 프로젝트 수준의 `LICENSE` 파일은 포함되어 있지 않습니다. 관리자가 라이선스를 선택해 추가하기 전까지는 이 프로젝트 소스의 재사용·수정·재배포 권한이 명시적으로 부여된 것으로 간주하면 안 됩니다. 제3자 패키지의 라이선스 정보는 `THIRD_PARTY_NOTICES.md`를 확인하세요.
+PyDTMF-ECC는 **GNU 일반 공중 사용 허가서 버전 3.0(GNU GPL v3.0, GPL-3.0)**에 따라 배포됩니다. 이 라이선스의 조건에 따라 프로젝트를 사용·검토·수정·재배포할 수 있습니다. 전체 라이선스 내용은 [`LICENSE`](LICENSE) 파일을 확인하세요. 제3자 종속성에는 별도의 라이선스 조건이 적용될 수 있으므로 [`THIRD_PARTY_NOTICES.md`](THIRD_PARTY_NOTICES.md)도 확인하세요.
